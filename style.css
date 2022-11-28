@@ -1,0 +1,68 @@
+.card-section{
+    background-color:#F5F5F5;
+}
+.card-part{
+    width: 1284px;
+    max-width: 100%;
+    margin:  0 auto;
+}
+.button{
+    display: flex;
+    justify-content: end;
+}
+.button h6{
+    margin-right: 30px;
+    margin-top: 119px;
+    margin-bottom: 56px;
+    font-size: 11px;
+    font-weight: 100;
+}
+.button img{
+    margin-top: 93px;
+    margin-bottom: 30px;
+}
+.elipse-img{
+    position: absolute;
+}
+.union-img{
+    position: relative;
+    margin-right: 20px;
+}
+.card-one{
+    background-color: white;
+    display: flex;
+    margin-bottom: 30px;
+}
+.card-two{
+    background-color: white;
+    display: flex;
+    margin-bottom: 30px;
+}
+.card-three{
+    background-color: white;
+    display: flex;
+    margin-bottom: 30px;
+}
+.card-four{
+    background-color: white;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.card-txt h3{
+    margin-left: 32px;
+    /* margin-top: 32px; */
+}
+.card-txt p{
+    color: #666666;
+    width: 603px;
+    margin-left: 32px;
+    margin-top: 12px;
+    /* line-height: 25px; */
+}
+.card-txt h2{
+    margin-left: 800px;
+    /* font-size: 40px; */
+    position: relative;
+    top: -30%;
+}
