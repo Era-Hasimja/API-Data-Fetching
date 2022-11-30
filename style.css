@@ -11,58 +11,61 @@
     justify-content: end;
 }
 .button h6{
-    margin-right: 30px;
-    margin-top: 119px;
-    margin-bottom: 56px;
+    margin-right: 3%;
+    margin-top: 10%;
+    margin-bottom: 4%;
     font-size: 11px;
     font-weight: 100;
 }
 .button img{
-    margin-top: 93px;
-    margin-bottom: 30px;
+    margin-top: 6%;
+    /* margin-bottom: 30px; */
 }
 .elipse-img{
     position: absolute;
 }
 .union-img{
     position: relative;
-    margin-right: 20px;
+    margin-right: 1.5%;
+    margin-bottom: 1%;
 }
 .card-one{
     background-color: white;
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 2%;
 }
 .card-two{
     background-color: white;
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 2%;
 }
 .card-three{
     background-color: white;
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 2%;
 }
 .card-four{
     background-color: white;
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 2%;
 }
 
 .card-txt h3{
-    margin-left: 32px;
-    /* margin-top: 32px; */
+    margin-left: 4%;
+    margin-top: 4%;
+    
 }
 .card-txt p{
     color: #666666;
     width: 603px;
-    margin-left: 32px;
-    margin-top: 12px;
-    /* line-height: 25px; */
+    margin-left: 4%;
+    margin-top: 2%;
+    line-height: 25px;
 }
 .card-txt h2{
-    margin-left: 800px;
-    /* font-size: 40px; */
     position: relative;
-    top: -30%;
+    margin-left: 130%;
+    font-size: 40px;
+    top: -35%;
+    color: #666666;
 }
